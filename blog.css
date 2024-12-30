@@ -170,7 +170,32 @@ img {
   .logo {
     margin-left: 20px;
   }
-
+  /* article media curies  */
+  .post-title {
+    font-size: 3rem;
+    margin-top: 20px;
+    opacity: 0.7;
+    margin-left: 20px;
+  }
+  .post-caption {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  .post-writer {
+    font-size: 1.5rem;
+    opacity: 0.7;
+    margin-left: 20px;
+  }
+  .post-date {
+    font-size: 1.5rem;
+    opacity: 0.7;
+    margin-left: 20px;
+  }
+  .article {
+    margin-left: 20px;
+  }
   /* footer media curies  */
   .footer-content {
     flex-direction: column;
